@@ -45,7 +45,7 @@
 		color: inherit;
 		font-weight: 700;
 		line-height: 1.75em;
-		margin-bottom: 1em;
+		margin-bottom: 0em;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -344,7 +344,8 @@
 			color: white;
 		}
 		ul.simpleList {
-			list-style-type:disc
+			list-style-type:disc;
+			margin-bottom: 1em;
 		}
 			ul.simpleList li {
 				margin-left: 1em;
