@@ -3,3 +3,5 @@ description: Horizons template for Jekyll
 paginate: 10
 # baseurl: "/dpjedi-website" # the subpath of your site, e.g. /blog
 url: "http://dpjedi.org/" # the base hostname & protocol for your site
+# Google Analytics
+google_analytics: G-TT1VGTLKX5
